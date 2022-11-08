@@ -20,6 +20,6 @@ Would you like a hand with that? Contact me
 <br>
 __Twitter__ https://twitter.com/OnesiUkanah
 
-Check out my blog Post
+Check out my Dev Posts
 <br>
 __Medium__ https://medium.com/@ukanah15thdean
