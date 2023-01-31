@@ -18,7 +18,7 @@ I love to collaborate on open source projects.
 
 Would you like a hand with that? Contact me
 <br>
-__Twitter__ https://twitter.com/OnesiUkanah
+__Twitter__ https://twitter.com/OnesiUkanah <br>
 __Mail__  ukanah15thdean@gmail.com
 
 Check out my Dev Posts
