@@ -7,6 +7,8 @@
 Here are some ideas to get you started:
 
 -->
+[![wakatime](https://wakatime.com/badge/user/018cb7d3-0ac7-47b9-87c2-95ddeec9c117.svg)](https://wakatime.com/@018cb7d3-0ac7-47b9-87c2-95ddeec9c117)
+
 Mastering Python for Data Science and Ethical Hacking. I love Typescript a lot, with React-JS, Next-JS and Node-JS framework projects, although I am not completely into it as I am with Python.
 
 I play games till Dawn when I play games. I could say that I am a chess student, but I find it very hard. I have an objective, which is to be a well-rounded developer, one who can tackle any problem with no constraints, as I currently have basic knowledge of Java and C language and still learning more...
