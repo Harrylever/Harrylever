@@ -24,3 +24,5 @@ I love to collaborate on open source projects.
 
 ### Check out my Dev Posts
 [![medium](https://img.shields.io/badge/medium-0ac210?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ukanah15thdean)
+
+<a href="https://app.daily.dev/deanuko"><img src="https://api.daily.dev/devcards/v2/otxyiu7qccaidw5q3qgeZ.png?r=9ng&type=default" width="356" alt="Ukanah Dean's Dev Card"/></a>
