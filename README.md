@@ -7,11 +7,8 @@
 Here are some ideas to get you started:
 
 -->
-Mastering Python for Data Science and Ethical Hacking. I love Typescript a lot, with React-JS, Next-JS and Node-JS framework projects, although I am not completely into it as I am with Python.
-
-I play games till Dawn when I play games. I could say that I am a chess student, but I find it very hard. I have an objective, which is to be a well-rounded developer, one who can tackle any problem with no constraints, as I currently have basic knowledge of Java and C++ and still learning more...
-
-I love to collaborate on open source projects.
+I am a Full Stack Engineer specializing in building highly scalable, responsive, and user-friendly web applications. These days, I primarily work with Next.js, React, and TypeScript. I am well-versed and experienced in a variety of technology stacks, including JavaScript, Python, Django, and Bash.
+In addition to coding, I give technical talks, provide career advice, and manage an active [tech community](https://chat.whatsapp.com/G29pIK9Kg4G44uMhxmuBdZ). Currently, I enjoy building projects both for fun and work. In my free time, I play chess and watch Solo leveling 😎.
 
 ### 🔗 Would you like a hand with that? Contact me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesfromdean.vercel.app/)
