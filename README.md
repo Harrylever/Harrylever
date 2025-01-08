@@ -11,7 +11,7 @@ I am a Full Stack Engineer specializing in building highly scalable, responsive,
 In addition to coding, I give technical talks, provide career advice, and manage an active [tech community](https://chat.whatsapp.com/G29pIK9Kg4G44uMhxmuBdZ). Currently, I enjoy building projects both for fun and work. In my free time, I play chess and watch Solo leveling 😎.
 
 ### 🔗 Would you like a hand with that? Contact me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesfromdean.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.harrylever.dev/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanukanah/)
 
