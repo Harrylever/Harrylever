@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 I am a Full Stack Engineer specialized in building highly scalable, responsive, and user-friendly web applications. These days, I primarily work with Next.js, React, and TypeScript. I am well-versed and experienced in a variety of technology stacks, including JavaScript, Python, Django, and Bash.
-In addition to coding, I give technical talks, provide career advice, and manage an active [tech community](https://chat.whatsapp.com/G29pIK9Kg4G44uMhxmuBdZ). Currently, I enjoy building projects both for fun and work. In my free time, I play chess and watch Solo leveling.
+In addition to coding, I give technical talks, provide career advice, and manage an active [tech community](https://chat.whatsapp.com/JVPIw3QnWMsFoeWnMM5Dzy). Currently, I enjoy building projects both for fun and work. In my free time, I play chess and watch Solo leveling.
 
 ### 🔗 Would you like a hand with that? Contact me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.harrylever.dev/)
