@@ -1,4 +1,4 @@
-## Hi, I'm Ukanah Dean
+## Hi, I'm Dean Ukanah
 
 <!--
 
