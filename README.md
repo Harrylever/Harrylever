@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
--->
+
 I am a Full Stack Engineer specialized in building highly scalable, responsive, and user-friendly web applications. These days, I primarily work with Next.js, React, and TypeScript. I am well-versed and experienced in a variety of technology stacks, including JavaScript, Python, Django, and Bash.
 In addition to coding, I give technical talks, provide career advice, and manage an active [tech community](https://chat.whatsapp.com/JVPIw3QnWMsFoeWnMM5Dzy). Currently, I enjoy building projects both for fun and work. In my free time, I play chess and watch Solo leveling.
 
@@ -21,3 +21,6 @@ In addition to coding, I give technical talks, provide career advice, and manage
 [![medium](https://img.shields.io/badge/medium-0ac210?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ukanah15thdean)
 
 <a href="https://app.daily.dev/deanuko"><img src="https://api.daily.dev/devcards/v2/otxyiu7qccaidw5q3qgeZ.png?r=9ng&type=default" width="356" alt="Ukanah Dean's Dev Card"/></a>
+-->
+
+I am a Full Stack Engineer and Expert Coder. I primarily work with Next.js, React, TypeScript and Python. Currently learning Elixir in my free time.
