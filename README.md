@@ -23,4 +23,4 @@ In addition to coding, I give technical talks, provide career advice, and manage
 <a href="https://app.daily.dev/deanuko"><img src="https://api.daily.dev/devcards/v2/otxyiu7qccaidw5q3qgeZ.png?r=9ng&type=default" width="356" alt="Ukanah Dean's Dev Card"/></a>
 -->
 
-I am a Full Stack Engineer and Expert Coder. I primarily work with Next.js, React, TypeScript, NestJS and Python. Currently learning Elixir in my free time.
+I am a Full Stack Engineer and Seasoned Coder. I primarily work with Next.js, React, TypeScript, NestJS and Python. Currently learning Elixir in my free time.
