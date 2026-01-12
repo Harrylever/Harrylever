@@ -23,4 +23,11 @@ In addition to coding, I give technical talks, provide career advice, and manage
 <a href="https://app.daily.dev/deanuko"><img src="https://api.daily.dev/devcards/v2/otxyiu7qccaidw5q3qgeZ.png?r=9ng&type=default" width="356" alt="Ukanah Dean's Dev Card"/></a>
 -->
 
-I am a Full Stack Engineer and Seasoned Coder. I primarily work with Next.js, React, TypeScript, NestJS and Python. Currently learning how Applied AI in Web Software Development can help build great products.
+A product-driven full-stack engineer. I spend most of my time designing and building end-to-end SaaS applications. Passionate about frontend and backend systems, API Design, and scalable architecture, with a rising interest in cybersecurity. Motivated by turning ideas into reliable, secure and impactful products.
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.deanukanah.dev/)
+
+[![X](https://img.shields.io/badge/X-%234287f5.svg?logo=X&logoColor=white)](https://x.com/OnesiUkanah)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/deanukanah/)
+
