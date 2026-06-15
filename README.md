@@ -23,7 +23,7 @@ In addition to coding, I give technical talks, provide career advice, and manage
 <a href="https://app.daily.dev/deanuko"><img src="https://api.daily.dev/devcards/v2/otxyiu7qccaidw5q3qgeZ.png?r=9ng&type=default" width="356" alt="Ukanah Dean's Dev Card"/></a>
 -->
 
-A product-driven full-stack engineer. I spend most of my time designing and building end-to-end SaaS applications. Passionate about frontend and backend systems, API Design, and scalable architecture, with a rising interest in cybersecurity. Motivated by turning ideas into reliable, secure and impactful products.
+A product-driven full-stack engineer. I spend most of my time designing and building end-to-end SaaS applications. Passionate about frontend and backend systems, API Design, and scalable architecture, with a keen interest in cybersecurity. Motivated by turning ideas into reliable and secure products.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.deanukanah.dev/)
 
